@@ -15,7 +15,7 @@ Welcome to the Real Estate Tailwind Project! This project is designed to showcas
 
 ## Demo
 
-Check out the live demo [here]([https://example.com](https://myrealestateezy.netlify.app/) 
+Check out the live demo [here]([https://myrealestateezy.netlify.app/])
 
 ## Features
 
