@@ -38,5 +38,3 @@ To get a local copy up and running, follow these simple steps:
    git clone https://github.com/your-username/real-estate-tailwind-project.git
 
 
-
-
